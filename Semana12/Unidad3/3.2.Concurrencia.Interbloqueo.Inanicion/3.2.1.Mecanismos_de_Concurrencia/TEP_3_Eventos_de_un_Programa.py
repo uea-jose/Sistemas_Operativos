@@ -1,5 +1,7 @@
-import threading  # Importamos el módulo threading para trabajar con hilos
-import time  # Importamos el módulo time para utilizar la función sleep
+# Importamos el módulo threading para trabajar con hilos
+import threading
+# Importamos el módulo time para utilizar la función sleep
+import time
 
 # Creamos un objeto evento
 evento = threading.Event()
