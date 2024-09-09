@@ -1,5 +1,5 @@
 import threading  # Importamos el módulo threading para trabajar con hilos
-
+#
 # Creamos una barrera que permitirá que hasta 2 hilos esperen antes de continuar
 barrera = threading.Barrier(2)
 
